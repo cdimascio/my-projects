@@ -56,7 +56,7 @@ A Discovery Channel episode featuring my team's work on AI and education
 - [IBM Watson Advertising: Traditional Publishing, ‘A Lot of New Data And Technology Assets’: Jeremy Hlavacek Beet.TV](https://www.beet.tv/2018/02/jeremy-hlavacek.html)
 - [IBM announces Watson-powered ads that think - Marketing Land](https://marketingland.com/ibm-announces-watson-powered-ads-think-179596)
 
-##[IBM Chef Watson](www.ibmchefwatson.com)
+## [IBM Chef Watson](www.ibmchefwatson.com)
 
 > Ready to do some cognitive cooking? Create unique dishes with Chef Watson and share with your friends!
 
