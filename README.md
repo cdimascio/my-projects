@@ -1,6 +1,6 @@
-# my projects
+# my projects and collaborations
 
-Below is a list of newsworthy projects that I've led and/or acted as a core contributor.
+Below is a list of newsworthy projects that I've led and/or held role as a core contributor.
 
 ## [IBM and Sesame: Personalized Early Childhood Learning](https://www.ibm.com/watson/education/sesame-street)
 
